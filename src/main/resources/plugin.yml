@@ -1,0 +1,12 @@
+name: LvckyMines
+version: ${project.version}
+main: me.pugly.xyz.lvckymines.LvckyMines
+api-version: 1.17
+authors: [ pugly ]
+website: pugly.xyz
+commands:
+  luckymines:
+    usage: /<command> <args>
+    description: "Base command."
+    aliases:
+      - lm
